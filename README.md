@@ -1,5 +1,5 @@
 # random-road
-make a random road with a ratio fore one HTML page
+make a random road with a ratio for one HTML page
 
 ```javascript
 let name = [
